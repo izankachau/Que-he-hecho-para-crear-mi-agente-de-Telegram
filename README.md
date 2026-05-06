@@ -24,10 +24,6 @@ Finalmente, desde mi aplicación de Telegram, interactué con el Agente comproba
 
 ---
 
-¡Hola! Soy **Izan** y aquí te cuento cómo creé mi agente de Telegram desde cero. No era experto en nada de esto, pero con ayuda lo conseguí. 😄
-
----
-
 ## 📋 Resumen
 
 Proyecto realizado durante el ciclo formativo para crear un agente conversacional en Telegram usando **OpenCode**, **Linux** y APIs de **OpenRouter**.
