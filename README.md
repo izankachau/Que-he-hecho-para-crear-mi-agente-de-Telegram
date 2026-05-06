@@ -1,6 +1,6 @@
-# 🚀 Que he hecho para crear mi agente de Telegram
-
 *Esto es la intro, es relleno, te lo puedes saltar e ir directamente a donde pone Resumen*
+
+# 🚀 Que he hecho para crear mi agente de Telegram
 
 Raul nos dio un ordenador el centro, el cual, encendí y pitaba indicando un error. Le comenté a OpenCode la secuencia de sonido que emitía el ordenador cada vez que lo encendía y me ayudó a resolverlo.
 
